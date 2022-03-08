@@ -35,7 +35,7 @@ Finally, narrowing down by shape of the sighted object would highlight some pret
 
 ## Summary
 
-One drawback of the design is that after users have entered multiple entries in the various filter fields, they cannot clear all of those entries at once unless they reload the page. Users can delete each filter entry separately to get back to the original full view of the data, but this process is a bit tedious.
+The new page design does perform as expected, which is good. One drawback of the design is that after users have entered multiple entries in the various filter fields, they cannot clear all of those entries at once unless they reload the page. Users can delete each filter entry separately to get back to the original full view of the data, but this process is a bit tedious.
 
 Two recommendations for further development include:
 - For most of the filters, such as date, state, country and shape, the web site could use dropdown functionality instead of field entry. This would lessen the chance of users mispelling or using the wrong capilization when filtering the data. 
